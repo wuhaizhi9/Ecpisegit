@@ -1,11 +1,11 @@
 package com.mr.main;
-
+//26262
 import com.mr.view.MainFrame;
 
 public class Start {
 	public static void main(String[] args) {
-		  MainFrame frame = new MainFrame();// 创建主窗体
-	        frame.setVisible(true);// 显示主窗体
+		  MainFrame frame = new MainFrame();// 麓麓陆篓脰梅麓掳脤氓
+	        frame.setVisible(true);// 脧脭脢戮脰梅麓掳脤氓
 		
 	}
 
